@@ -18,8 +18,11 @@ Clinical observations (N=47 trials) demonstrate exclusive resonance at Block 202
 **Falsification criteria:** RHME/UACM framework is rejected if (1) alternative frequency ranges show equal efficacy, (2) cellular resonance absent entirely, or (3) independent Vc measurements contradict 1.2-1.3 × 10⁹ m/s prediction.
 
 Dependencies
+
 https://github.com/limabravoecho-collab/unified-attractor-complexity-model
+
 https://github.com/limabravoecho-collab/unified-attractor-complexity-model-how-and-why-A-Dual-Framework-Cosmology
+
 https://github.com/limabravoecho-collab/Bio-Resonant-Restoration-A-Mechanistic-Framework-for-Cellular-Restoration
 
 ---
